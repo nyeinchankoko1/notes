@@ -80,6 +80,18 @@ body {
   color: black;
 }
 
+.dai {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+
+
+
+
+
+
 @media only screen and (max-width: 400px) {
   .testing {
     width: 320px;
